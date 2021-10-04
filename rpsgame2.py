@@ -1,6 +1,6 @@
 import random
 import time
-
+#this code doesn't require additional packages to install. this code runs on python version 3.7+
 
 try:
     w=input("enter your name- ")
